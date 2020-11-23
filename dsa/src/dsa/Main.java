@@ -8,7 +8,8 @@ public class Main {
 		
 		
 		// new 
-		System.out.println("good");
+		
+		System.out.println("goy");
 		
      
     }
